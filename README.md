@@ -8,8 +8,8 @@
 
 In this project I've learned about basic DOM and Events Fundamentals.
 
-[02-Pig-Game](https://github.com/AlbuGeorge/javascript-apps-course/tree/main/02-Pig-Game)
+- [02-Pig-Game](https://github.com/AlbuGeorge/javascript-apps-course/tree/main/02-Pig-Game)
 
-[03-Bankist-App](https://github.com/AlbuGeorge/javascript-apps-course/tree/main/03-Bankist-App)
+- [03-Bankist-App](https://github.com/AlbuGeorge/javascript-apps-course/tree/main/03-Bankist-App)
 
-[04-Bankist-Website](https://github.com/AlbuGeorge/javascript-apps-course/tree/main/04-Bankist-Website)
+- [04-Bankist-Website](https://github.com/AlbuGeorge/javascript-apps-course/tree/main/04-Bankist-Website)
