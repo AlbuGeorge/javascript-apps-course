@@ -4,10 +4,12 @@
 
 ### The Repository contains 4 projects:
 
-01-Guess-My-Number - In this project I've learned about basic DOM and Events Fundamentals.
+[01-Guess-My-Number](https://github.com/AlbuGeorge/javascript-apps-course/tree/main/01-Guess-My-Number)
 
-02-Pig-Game
+In this project I've learned about basic DOM and Events Fundamentals.
 
-03-Bankist-App
+[02-Pig-Game](https://github.com/AlbuGeorge/javascript-apps-course/tree/main/02-Pig-Game)
 
-04-Bankist-Website
+[03-Bankist-App](https://github.com/AlbuGeorge/javascript-apps-course/tree/main/03-Bankist-App)
+
+[04-Bankist-Website](https://github.com/AlbuGeorge/javascript-apps-course/tree/main/04-Bankist-Website)
