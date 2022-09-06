@@ -4,7 +4,7 @@
 
 ### The Repository contains 4 projects:
 
-[01-Guess-My-Number](https://github.com/AlbuGeorge/javascript-apps-course/tree/main/01-Guess-My-Number)
+- [01-Guess-My-Number](https://github.com/AlbuGeorge/javascript-apps-course/tree/main/01-Guess-My-Number)
 
 In this project I've learned about basic DOM and Events Fundamentals.
 
