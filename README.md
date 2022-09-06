@@ -1,8 +1,8 @@
 # Udemy Course Projects
 
-### In this repository I included all the projects I've made during The Complete JavaScript Course 2022: From Zero to Expert!
+### In this repository I included all the projects I've made during [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-### The Repository cotains 4 projects:
+### The Repository contains 4 projects:
 
 01-Guess-My-Number - In this project I've learned about basic DOM and Events Fundamentals.
 
